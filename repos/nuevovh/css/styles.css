@@ -1,0 +1,146 @@
+/** globales **/
+
+body{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1;
+   
+}
+
+
+/** header **/
+
+header{
+    background: rgb(35, 34, 36);
+    color: white;
+    height: auto;
+    width: auto;
+  
+}
+
+.contenedor-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 75rem;
+    background-position: center center;
+}
+
+
+
+.foto{
+    width: 15rem;
+    height: 15rem;
+    -moz-border-radiun: 50%;
+    -webkit-border-radiun: 50%;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+
+.recuadro{
+    background-color:
+    #313131;
+    color: white;
+    width:50%;
+    align-items: center;
+    text-align: center;
+   
+}
+
+
+.fila{
+    display: flex;
+}
+
+.contenedor-casilla{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-position: center center;
+}
+
+.contenedor-contenido1{
+    height:27rem;
+    padding-right: 2rem;
+}
+
+
+
+.casilla{
+    width: 13rem;
+    max-width: 100%;
+    background: gray ;
+    
+    
+}
+.casilla1{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+    
+}
+
+.casilla2{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+      
+}
+.casilla3{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+    
+}
+
+.casilla4{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+    
+}
+.casilla5{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+    
+}
+
+.casilla6{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.casilla7{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.casilla8{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.casilla9{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.casilla10{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.casilla11{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+}
+
